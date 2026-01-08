@@ -18,6 +18,7 @@ const result = combineUsers(
   ["Bojack", "Horseman"], 
   ["Todd", "Chavez"], 
   ["Vanessa", "Geko"],
+  ["Pickles", "Aplenty"]
 );
 
 console.log(result);
